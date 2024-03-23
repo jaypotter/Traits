@@ -6,7 +6,7 @@
         "php": "^8.3",
         "potter/aware-trait": "dev-main",
         "potter/cloneable-trait": "dev-main",
-        "potter/container-trait": "dev-main"
+        "potter/container-traits": "dev-main"
     },
     "license": "MIT",
     "authors": [
