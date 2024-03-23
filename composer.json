@@ -3,7 +3,8 @@
     "description": "PHP Trait Collection",
     "type": "metapackage",
     "require": {
-        "php": "^8.3"
+        "php": "^8.3",
+        "potter/cloneable-trait": "dev-main"
     },
     "license": "MIT",
     "authors": [
