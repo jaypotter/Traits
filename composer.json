@@ -4,6 +4,7 @@
     "type": "metapackage",
     "require": {
         "php": "^8.3",
+        "potter/aware-trait": "dev-main",
         "potter/cloneable-trait": "dev-main"
     },
     "license": "MIT",
