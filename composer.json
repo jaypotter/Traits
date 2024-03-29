@@ -9,6 +9,7 @@
         "potter/container-traits": "dev-main",
         "potter/link-traits": "dev-main",
         "potter/logger-traits": "dev-main",
+        "potter/session-trait": "dev-main",
         "potter/stoppable-event-trait": "dev-main"
     },
     "license": "MIT",
