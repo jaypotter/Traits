@@ -8,7 +8,8 @@
         "potter/cloneable-trait": "dev-main",
         "potter/container-traits": "dev-main",
         "potter/link-traits": "dev-main",
-        "potter/logger-traits": "dev-main"
+        "potter/logger-traits": "dev-main",
+        "potter/stoppable-event-trait": "dev-main"
     },
     "license": "MIT",
     "authors": [
