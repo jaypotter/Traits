@@ -5,7 +5,7 @@
     "require": {
         "php": "^8.3",
         "potter/application-trait": "dev-main",
-        "potter/aware-trait": "dev-main",
+        "potter/aware-traits": "dev-main",
         "potter/cloneable-trait": "dev-main",
         "potter/container-traits": "dev-main",
         "potter/link-traits": "dev-main",
