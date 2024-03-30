@@ -12,6 +12,7 @@
         "potter/logger-traits": "dev-main",
         "potter/output-buffer-traits": "dev-main",
         "potter/session-traits": "dev-main",
+        "potter/socket-traits": "dev-main",
         "potter/stoppable-event-trait": "dev-main"
     },
     "suggest": {
