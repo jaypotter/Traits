@@ -8,12 +8,12 @@
         "potter/aware-traits": "dev-main",
         "potter/cloneable-trait": "dev-main",
         "potter/container-traits": "dev-main",
+        "potter/event-traits": "dev-main",
         "potter/link-traits": "dev-main",
         "potter/logger-traits": "dev-main",
         "potter/output-buffer-traits": "dev-main",
         "potter/session-traits": "dev-main",
-        "potter/socket-traits": "dev-main",
-        "potter/stoppable-event-trait": "dev-main"
+        "potter/socket-traits": "dev-main"
     },
     "suggest": {
         "potter/framework": "dev-main"
